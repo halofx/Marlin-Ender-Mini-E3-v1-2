@@ -784,7 +784,7 @@
 //#define USE_JMIN_PLUG
 //#define USE_KMIN_PLUG
 #define USE_XMAX_PLUG
-TMC2209ne USE_YMAX_PLUG
+#define USE_YMAX_PLUG
 //#define USE_ZMAX_PLUG
 //#define USE_IMAX_PLUG
 //#define USE_JMAX_PLUG
